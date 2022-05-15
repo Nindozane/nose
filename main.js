@@ -39,4 +39,4 @@ function gotPoses(results)
     console.log("nose x = " + results[0].pose.nose.x); 
     console.log("nose y = " + results[0].pose.nose.y);
     }
-}
+} 
